@@ -1,3 +1,3 @@
 # HenryBookstore
 
-# MGA ITEC 4299 - Final Project
+# MGA ITEC 4299 DevOps - Final Project
